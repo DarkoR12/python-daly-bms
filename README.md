@@ -23,7 +23,7 @@ pip3 install dalybms
 ### From Git
 
 ```
-git clone https://github.com/dreadnought/python-daly-bms.git
+git clone https://github.com/DarkoR12/python-daly-bms.git
 cd python-daly-bms
 sudo python3 setup.py install
 ```
